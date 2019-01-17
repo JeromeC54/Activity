@@ -1,2 +1,2 @@
 # Activity
-Oen ClassRoom - GitHub - Partie 2 Activité
+Open ClassRoom - GitHub - Partie 2 Activité
